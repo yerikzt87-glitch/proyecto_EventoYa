@@ -35,3 +35,4 @@ Pendiente. Se documenta en el Hito 2.
 - Usar Git Bash, no PowerShell.
 - Ejecutar una vez por clon: `git config core.hooksPath .githooks`
 
+# Husay seiza
